@@ -14,6 +14,7 @@
 # Colors
 1. [HexColorTool](https://www.hexcolortool.com/)
 2. [Flat UI Colors](https://flatuicolors.com/)
+3. [Coolors](https://coolors.co/)
 
 # Icons
 1. [Silk Icons](http://www.famfamfam.com/lab/icons/silk/)
@@ -26,13 +27,28 @@
 1. [Mibew](https://mibew.org/)
 2. [What Font Is](https://www.whatfontis.com/)
 3. [CSS Sprite Generator](http://spritepad.wearekiss.com/#)
+4. [SpriteCow](http://www.spritecow.com/)
+5. [Browser Hacks](http://browserhacks.com/)
 
 # CSS
 1. [Box Shadow Generator](https://css3gen.com/wp-content/cache/all/box-shadow//index.html)
+2. [Animista](http://animista.net/)
+3. [Moving Letters](http://tobiasahlin.com/moving-letters/)
+4. [LayoutIt](https://www.layoutit.com/grid)
+5. [Grid Garden](http://cssgridgarden.com/)
+6. [CSS Grid](https://cssgrid.io/)
+7. [Clippy](https://bennettfeely.com/clippy/)
+8. [LiquidCSS](https://liquidcss.com/#)
+9. [Can I Use](https://caniuse.com/)
+10. [FlexBox Froggy](https://flexboxfroggy.com/)
+11. [Gradients](https://cssgradient.io/)
+12. [30 Second CSS](https://30-seconds.github.io/30-seconds-of-css/)
+
+# Javascript
+1. [PostCSS](https://postcss.org/)
 
 # Discussion
 1. [Web Hosting Talk](http://www.webhostingtalk.com/)
-2. 
 
 # Random Image Inspiration
 1. http://i.imgur.com/Xt4V5.png
