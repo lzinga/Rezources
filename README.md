@@ -1,3 +1,6 @@
+# Details
+Eventually I want to split this up with more than just web resources, for now its just a place so I can keep track of all the different places. I am not satisfied with the name of the Repo either.
+
 # Inspiration / Freebies
 1. [Dribble](https://dribbble.com/)
 2. [Theme Forest](https://themeforest.net/)
