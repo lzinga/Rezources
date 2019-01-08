@@ -52,6 +52,3 @@ Eventually I want to split this up with more than just web resources, for now it
 
 # Discussion
 1. [Web Hosting Talk](http://www.webhostingtalk.com/)
-
-# Random Image Inspiration
-1. http://i.imgur.com/Xt4V5.png
