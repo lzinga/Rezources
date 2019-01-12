@@ -50,5 +50,9 @@ Eventually I want to split this up with more than just web resources, for now it
 # Javascript
 1. [PostCSS](https://postcss.org/)
 
-# Discussion
+# Discussion / Forum
 1. [Web Hosting Talk](http://www.webhostingtalk.com/)
+
+# Registrars
+1. [CloudFlare](https://www.cloudflare.com)
+2. [Gandi](https://www.gandi.net)
