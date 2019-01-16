@@ -46,6 +46,7 @@ Eventually I want to split this up with more than just web resources, for now it
 10. [FlexBox Froggy](https://flexboxfroggy.com/)
 11. [Gradients](https://cssgradient.io/)
 12. [30 Second CSS](https://30-seconds.github.io/30-seconds-of-css/)
+13. [Spin Kit](http://tobiasahlin.com/spinkit/)
 
 # Javascript
 1. [PostCSS](https://postcss.org/)
