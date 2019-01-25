@@ -1,4 +1,4 @@
-## [**◀** Back to Index](readme.md)
+## [**◀** Back to Index](README.md)
 
 # Inspiration / Freebies
 1. [Dribble](https://dribbble.com/)
