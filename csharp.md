@@ -10,3 +10,4 @@
 
 # Informational
 1. [Async/Await Simplified Explanation](https://stackoverflow.com/questions/14455293/how-and-when-to-use-async-and-await)
+2. [Multithreading Made Easy - Parallel Foreach](https://chrisstclair.co.uk/multithreading-made-easy-parallel-foreach/)
